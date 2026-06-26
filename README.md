@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sriharirv2007/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sriharirv2007/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -24,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sriharirv2007/leetcode/tree/main/0009-palindrome-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
