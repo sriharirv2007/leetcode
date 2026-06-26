@@ -4,7 +4,7 @@ class Solution(object):
         r=0
         while x>0:
             y=x%10
-            x=(x-y)/10
+            x=x//10
             r=r*10+y
         return r==z
             
