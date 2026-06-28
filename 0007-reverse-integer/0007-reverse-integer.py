@@ -7,11 +7,9 @@ class Solution(object):
             z=x%10
             x//=10
             r=r*10+z
-        if -2**31 <= r <= 2**31 - 1:
-            return s*r
-        else:
-            return 0
-            
+        a=s*r if -2**31 <= r <= 2**31 - 1 else 0
+        return a
+       
        
                      
             
