@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sriharirv2007/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sriharirv2007/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriharirv2007/leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +40,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sriharirv2007/leetcode/tree/main/0001-two-sum/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriharirv2007/leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriharirv2007/leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 <!---LeetCode Topics End-->
