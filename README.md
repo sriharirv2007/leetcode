@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sriharirv2007/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sriharirv2007/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sriharirv2007/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriharirv2007/leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Prefix Sum
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/sriharirv2007/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sriharirv2007/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/sriharirv2007/leetcode/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0372-super-pow](https://github.com/sriharirv2007/leetcode/tree/main/0372-super-pow/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
