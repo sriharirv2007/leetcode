@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/sriharirv2007/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/sriharirv2007/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0292-nim-game](https://github.com/sriharirv2007/leetcode/tree/main/0292-nim-game/) | Easy |
 | [0372-super-pow](https://github.com/sriharirv2007/leetcode/tree/main/0372-super-pow/) | Medium |
 | [3099-harshad-number](https://github.com/sriharirv2007/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Two Pointers
@@ -55,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/sriharirv2007/leetcode/tree/main/0050-powx-n/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sriharirv2007/leetcode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sriharirv2007/leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
