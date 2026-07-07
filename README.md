@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/sriharirv2007/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0372-super-pow](https://github.com/sriharirv2007/leetcode/tree/main/0372-super-pow/) | Medium |
+| [3099-harshad-number](https://github.com/sriharirv2007/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
