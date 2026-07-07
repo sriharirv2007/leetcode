@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0292-nim-game](https://github.com/sriharirv2007/leetcode/tree/main/0292-nim-game/) | Easy |
 | [0372-super-pow](https://github.com/sriharirv2007/leetcode/tree/main/0372-super-pow/) | Medium |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sriharirv2007/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [3099-harshad-number](https://github.com/sriharirv2007/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
