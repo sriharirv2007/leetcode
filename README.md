@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sriharirv2007/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1929-concatenation-of-array](https://github.com/sriharirv2007/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriharirv2007/leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -73,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/sriharirv2007/leetcode/tree/main/1025-divisor-game/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/sriharirv2007/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
