@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0372-super-pow](https://github.com/sriharirv2007/leetcode/tree/main/0372-super-pow/) | Medium |
 | [1025-divisor-game](https://github.com/sriharirv2007/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sriharirv2007/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/sriharirv2007/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3099-harshad-number](https://github.com/sriharirv2007/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
