@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/sriharirv2007/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [1025-divisor-game](https://github.com/sriharirv2007/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sriharirv2007/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1323-maximum-69-number](https://github.com/sriharirv2007/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sriharirv2007/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3099-harshad-number](https://github.com/sriharirv2007/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Two Pointers
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [1323-maximum-69-number](https://github.com/sriharirv2007/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
