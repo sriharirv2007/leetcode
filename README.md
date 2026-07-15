@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sriharirv2007/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/sriharirv2007/leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/sriharirv2007/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/sriharirv2007/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/sriharirv2007/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/sriharirv2007/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/sriharirv2007/leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/sriharirv2007/leetcode/tree/main/0326-power-of-three/) | Easy |
