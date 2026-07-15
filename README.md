@@ -44,6 +44,7 @@
 | [1323-maximum-69-number](https://github.com/sriharirv2007/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sriharirv2007/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3099-harshad-number](https://github.com/sriharirv2007/leetcode/tree/main/3099-harshad-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sriharirv2007/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/sriharirv2007/leetcode/tree/main/0231-power-of-two/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sriharirv2007/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
