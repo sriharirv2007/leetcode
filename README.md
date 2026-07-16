@@ -12,6 +12,7 @@
 | [1732-find-the-highest-altitude](https://github.com/sriharirv2007/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sriharirv2007/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriharirv2007/leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,11 +46,13 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/sriharirv2007/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3099-harshad-number](https://github.com/sriharirv2007/leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sriharirv2007/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriharirv2007/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/sriharirv2007/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +104,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sriharirv2007/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
