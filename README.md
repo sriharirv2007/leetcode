@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriharirv2007/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/sriharirv2007/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sriharirv2007/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sriharirv2007/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sriharirv2007/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriharirv2007/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/sriharirv2007/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/sriharirv2007/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
