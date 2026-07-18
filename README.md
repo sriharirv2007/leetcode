@@ -41,6 +41,7 @@
 | [0326-power-of-three](https://github.com/sriharirv2007/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0372-super-pow](https://github.com/sriharirv2007/leetcode/tree/main/0372-super-pow/) | Medium |
 | [0507-perfect-number](https://github.com/sriharirv2007/leetcode/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/sriharirv2007/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/sriharirv2007/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sriharirv2007/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/sriharirv2007/leetcode/tree/main/1323-maximum-69-number/) | Easy |
@@ -76,6 +77,7 @@
 | [0050-powx-n](https://github.com/sriharirv2007/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/sriharirv2007/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/sriharirv2007/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/sriharirv2007/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sriharirv2007/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/sriharirv2007/leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -113,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sriharirv2007/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
