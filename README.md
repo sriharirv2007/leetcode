@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sriharirv2007/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriharirv2007/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/sriharirv2007/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/sriharirv2007/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sriharirv2007/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sriharirv2007/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/sriharirv2007/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sriharirv2007/leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
