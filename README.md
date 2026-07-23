@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sriharirv2007/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriharirv2007/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sriharirv2007/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/sriharirv2007/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/sriharirv2007/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/sriharirv2007/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sriharirv2007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriharirv2007/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sriharirv2007/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/sriharirv2007/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
