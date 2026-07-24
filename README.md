@@ -85,6 +85,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sriharirv2007/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/sriharirv2007/leetcode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/sriharirv2007/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/sriharirv2007/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/sriharirv2007/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/sriharirv2007/leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -136,6 +137,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sriharirv2007/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sriharirv2007/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0206-reverse-linked-list](https://github.com/sriharirv2007/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
