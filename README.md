@@ -54,6 +54,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/sriharirv2007/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sriharirv2007/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3099-harshad-number](https://github.com/sriharirv2007/leetcode/tree/main/3099-harshad-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/sriharirv2007/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sriharirv2007/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sriharirv2007/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/sriharirv2007/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/sriharirv2007/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sriharirv2007/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
