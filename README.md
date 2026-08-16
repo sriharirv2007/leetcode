@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sriharirv2007/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/sriharirv2007/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/sriharirv2007/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/sriharirv2007/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sriharirv2007/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sriharirv2007/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sriharirv2007/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -78,6 +79,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sriharirv2007/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/sriharirv2007/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sriharirv2007/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sriharirv2007/leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -154,4 +156,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sriharirv2007/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/sriharirv2007/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/sriharirv2007/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
